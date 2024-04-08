@@ -20,6 +20,9 @@ Print both the values it would be interchanged
 End the program
 ## Program:
 ```
+Developed By: SANDHIYA.R
+Register No: 212223240146
+
 def circulate():
     l=eval(input())
     n=int(input())
@@ -27,8 +30,8 @@ def circulate():
     print("After circulating the values are:",l)
 ```
 ## Output:
+![alt text](<Screenshot (146).png>)
 
-![Alt text](<Screenshot (114).png>)
 
 ## Result:
 
